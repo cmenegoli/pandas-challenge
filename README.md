@@ -1,4 +1,5 @@
 # pandas-challenge
+
 PyCity_Schools Homework using Pandas data frame.
 To complete this homework assignment, I used chat GPT to debug code multiple times as well as, stack overflow and  a tuttoring session
 
