@@ -1,10 +1,13 @@
 # pandas-challenge
 PyCity_Schools Homework using Pandas data frame.
-To complete this homework assignment, I used chat GPT to debug code multiple times as well as a tuttoring session
+To complete this homework assignment, I used chat GPT to debug code multiple times as well as, stack overflow and  a tuttoring session
 
 Here are the homework guidelines:
 
-As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
+As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as w
+
+
+chool performance.
 
 Your final report should include each of the following:
 
